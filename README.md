@@ -1,4 +1,4 @@
-# alexa telleng us the temperature of the water / capacity of our solar storage
+# alexa telling the temperature of the water and capacity of our solar storage
 
 ```
 <xml xmlns="https://developers.google.com/blockly/xml">
